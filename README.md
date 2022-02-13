@@ -5,13 +5,13 @@ Download Link:
 https://drive.google.com/file/d/10ktnr79Nj6yKkZsxabnlR1SIqv5Dyaa3
 
 Requirements:
--An Android phone
--Optionally a computer
+● An Android phone
+● Optionally a computer
 
 Phone used during testing are as follows
--Samsung Galaxy S8+ with Android 8
--Samsung Galaxy S9 with Android 10
--Pixel 5a with Android 11
+● Samsung Galaxy S8+ with Android 8
+● Samsung Galaxy S9 with Android 10
+● Pixel 5a with Android 11
 
 Installation Guide:
 1. Download the APK file from the download link either directly on an Android phone
