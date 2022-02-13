@@ -5,12 +5,12 @@ Download Link:
 https://drive.google.com/file/d/10ktnr79Nj6yKkZsxabnlR1SIqv5Dyaa3
 
 Requirements:<br/>
-● An Android phone
+● An Android phone<br/>
 ● Optionally a computer
 
-Phone used during testing are as follows
-● Samsung Galaxy S8+ with Android 8
-● Samsung Galaxy S9 with Android 10
+Phone used during testing are as follows<br/>
+● Samsung Galaxy S8+ with Android 8<br/>
+● Samsung Galaxy S9 with Android 10<br/>
 ● Pixel 5a with Android 11
 
 Installation Guide:
@@ -21,7 +21,7 @@ or on a computer
 4. Ignore any warnings about being an unrecognized app developer
 5. After this the game should be installed and ready to play
 
-Controls:
-● Tap to Jump
-● Double Tap to Double Jump
+Controls:<br/>
+● Tap to Jump<br/>
+● Double Tap to Double Jump<br/>
 ● Tilt Phone to Turn
