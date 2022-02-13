@@ -4,7 +4,7 @@ A single player endless runner mobile game.
 Download Link:
 https://drive.google.com/file/d/10ktnr79Nj6yKkZsxabnlR1SIqv5Dyaa3
 
-Requirements:<br\>
+Requirements:<br/>
 ● An Android phone
 ● Optionally a computer
 
