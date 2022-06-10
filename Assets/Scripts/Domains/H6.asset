@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df51c6196c87c7f47abbe997bc50f53f, type: 3}
+  m_Name: H6
+  m_EditorClassIdentifier: 
+  campaignStage: H-06
+  bgm: YouWereRight
+  stageList:
+  - StageOnly/Tutpipe5
+  - Normal/10
+  - Hard/1-Copy
+  - Base/PipeGoUp
+  - Normal/10
+  - StageOnly/17-Normal
+  speed: 2.5
+  health: 1
+  up: 0
+  domainName: Hard-06

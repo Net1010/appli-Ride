@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2779861692396376396
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2779861692396376397}
+  - component: {fileID: 2779861692396376402}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2779861692396376397
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2779861692396376396}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2779861692396376402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2779861692396376396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9cfe4fe65e933048b33be707052422a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: ButtonClick
+    clip: {fileID: 8300000, guid: 6e8b39c693bf1924a9c31a96ce31dff2, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: SettingsClick
+    clip: {fileID: 8300000, guid: ad55aeafde8cbc74089b7c7c5df4ad3f, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Jump
+    clip: {fileID: 8300000, guid: fe0c3579f3fa35e4ebe0c59124661efe, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Reject
+    clip: {fileID: 8300000, guid: d8108e049bb61dc4eafe8848dbbc311f, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: IconSelect
+    clip: {fileID: 8300000, guid: 81754fe4e7577534796cb8f2e25b316a, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: ModeCycle
+    clip: {fileID: 8300000, guid: 7791935a7098a8a459da371201063fad, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: DancingOperators
+    clip: {fileID: 8300000, guid: b0f0247b13531134b95bfabc4263d123, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: YouWereRight
+    clip: {fileID: 8300000, guid: a44464deb4e4ee84dad51309d8a9e0a9, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: YouWereRightNoPerc
+    clip: {fileID: 8300000, guid: cf93ba02787078e4f944d34e375ef781, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: SlightlyAcross
+    clip: {fileID: 8300000, guid: f75f78a540d1e5343826968ce678f38c, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: SlightlyAcrossNoPerc
+    clip: {fileID: 8300000, guid: 432d69fd8cf401e41a869c0d3754779d, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: EvolvingCities
+    clip: {fileID: 8300000, guid: 5a48b82603f0482408de4019632dfaec, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: TheLongestYear
+    clip: {fileID: 8300000, guid: 100202599560ba74da2e28f36bb7d8d9, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: TheLongestYearShort
+    clip: {fileID: 8300000, guid: 734a55cffb3c82c4cbbf0358a6c056af, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: FastLanes
+    clip: {fileID: 8300000, guid: eccc5704fd30fbe448e8adee05956915, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: FastLanesNoLead
+    clip: {fileID: 8300000, guid: 24fd50293b6f04d4e82f21468e8af024, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: TheTechShow1
+    clip: {fileID: 8300000, guid: 8784cbf94994e16479142cd3d78ca1e1, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: TheTechShow2
+    clip: {fileID: 8300000, guid: 2a1d153b1a039ae4da180839db6cfcf4, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: TheTechShow3
+    clip: {fileID: 8300000, guid: 929d5421d31acbe4fb5dc4afbefaf09e, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: GroundControl
+    clip: {fileID: 8300000, guid: 4795bcdad68dc5f40bafbb3d757c16fd, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: CozyAfternoon
+    clip: {fileID: 8300000, guid: 40f093d86e7e4fc40a59e42301a983bc, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: FugueForOne
+    clip: {fileID: 8300000, guid: b79b0e085c3f42f45a3849a2f0539392, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: FugueForOneNoPerc
+    clip: {fileID: 8300000, guid: e0dd3740208b1b5469121c2c10ca4db0, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  bgm: {fileID: 0}
+  bgmVol: 0
