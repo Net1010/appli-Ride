@@ -1,8 +1,9 @@
 # appli-Ride
 A single player endless runner mobile game.
+Currently in development.
 
 Download Link:
-https://drive.google.com/file/d/10ktnr79Nj6yKkZsxabnlR1SIqv5Dyaa3
+https://drive.google.com/file/d/1X4gkp-2vMDfcW7SQYqJjcuw98YIiPVrA
 
 Requirements:<br/>
 ● An Android phone<br/>
